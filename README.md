@@ -49,3 +49,6 @@ Petunjuk: Buka file tersebut menggunakan text editor, lalu tambahkan baris kode 
 📄 Lisensi & Kontribusi
 Plugin ini dikembangkan untuk mempermudah pustakawan dalam melakukan pengolahan data bibliografi secara efisien. Didukung penuh oleh ekosistem Ruang Perpustakaan.
 
+*Data bibliografi yang disalin dari katalog lain belum tentu benar, pasti berbeda-beda setiap perpustakaan dan kesesuain aturan bibliografi, cek kembali data sebelum digunakan*
+
+
